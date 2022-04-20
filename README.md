@@ -1,3 +1,3 @@
 # Tendermint
 
-Tendermint consensus using OMNeT++
+Tendermint consensus implementation using OMNeT++

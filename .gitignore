@@ -37,3 +37,8 @@
 
 #OMNeT++
 out/*
+.*
+Makefile
+
+# gitignore
+!.gitignore
