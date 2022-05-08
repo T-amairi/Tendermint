@@ -28,6 +28,8 @@ network Network
     parameters:
         int NodeNumber = 3;
         int roundNumber = 3;
+        int epochNumber = 3;
+        int f = 0;
         
     submodules:
         Nodes[NodeNumber]: Node;

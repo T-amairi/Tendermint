@@ -30,6 +30,7 @@
 *.exe
 *.out
 *.app
+Tendermint*
 
 # Vscode
 .vscode
